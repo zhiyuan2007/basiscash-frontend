@@ -60,10 +60,11 @@ const LPTokenHelpText: React.FC<{ bank: BankEntity }> = ({ bank }) => {
   let uniswapUrl: string;
   if (bank.depositTokenName.includes('BAC')) {
     pairName = 'BAC-DAI pair';
-    uniswapUrl = 'https://app.uniswap.org/#/add/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a/0x6B175474E89094C44Da98b954EedeAC495271d0F';
+    //uniswapUrl = 'https://app.uniswap.org/#/add/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a/0x6B175474E89094C44Da98b954EedeAC495271d0F';
+    uniswapUrl = 'https://zhiyuan2007.github.io/uniscam-interface/#/add/0x55A8E4377F94fb1Cd22F1b4A3750F5c77a1EE924/0xbeae9dc4dd5ac6214a08d24ab4aca926f41e9a67';
   } else {
     pairName = 'BAS-DAI pair';
-    uniswapUrl = 'https://app.uniswap.org/#/add/0xa7ED29B253D8B4E3109ce07c80fc570f81B63696/0x6B175474E89094C44Da98b954EedeAC495271d0F';
+    uniswapUrl = 'https://zhiyuan2007.github.io/uniscam-interface/#/add/0x94883CC35b24544B84867f3569ED01A6f368DeD3/0xbeae9dc4dd5ac6214a08d24ab4aca926f41e9a67';
   }
   return (
     <StyledLink href={uniswapUrl} target="_blank">
