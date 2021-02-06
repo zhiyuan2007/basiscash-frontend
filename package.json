@@ -1,6 +1,7 @@
 {
   "name": "basis.cash",
   "version": "0.1.0",
+  "home": "https://zhiyuan2007.github.io/basiscash-frontend",
   "private": true,
   "dependencies": {
     "@ethersproject/providers": "^5.0.9",
