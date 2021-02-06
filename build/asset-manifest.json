@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.e3376f00.chunk.js": "/static/js/0.e3376f00.chunk.js",
+    "main.css": "/static/css/main.ffcc6ad9.chunk.css",
+    "main.js": "/static/js/main.5cb7106f.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.56157606.js",
+    "static/js/3.17313c4e.chunk.js": "/static/js/3.17313c4e.chunk.js",
+    "static/js/4.9fc419d1.chunk.js": "/static/js/4.9fc419d1.chunk.js",
+    "static/js/5.51f18a1c.chunk.js": "/static/js/5.51f18a1c.chunk.js",
+    "static/js/6.1224c695.chunk.js": "/static/js/6.1224c695.chunk.js",
+    "static/js/7.0359d65c.chunk.js": "/static/js/7.0359d65c.chunk.js",
+    "static/js/8.7cdb0b20.chunk.js": "/static/js/8.7cdb0b20.chunk.js",
+    "static/js/9.360ecc54.chunk.js": "/static/js/9.360ecc54.chunk.js",
+    "static/js/10.6eb35baf.chunk.js": "/static/js/10.6eb35baf.chunk.js",
+    "static/js/11.a19f587e.chunk.js": "/static/js/11.a19f587e.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.5063523bd5e427bf8bf16681b114eb67.js": "/precache-manifest.5063523bd5e427bf8bf16681b114eb67.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.17313c4e.chunk.js.LICENSE.txt": "/static/js/3.17313c4e.chunk.js.LICENSE.txt",
+    "static/js/5.51f18a1c.chunk.js.LICENSE.txt": "/static/js/5.51f18a1c.chunk.js.LICENSE.txt",
+    "static/js/6.1224c695.chunk.js.LICENSE.txt": "/static/js/6.1224c695.chunk.js.LICENSE.txt",
+    "static/js/7.0359d65c.chunk.js.LICENSE.txt": "/static/js/7.0359d65c.chunk.js.LICENSE.txt",
+    "static/js/8.7cdb0b20.chunk.js.LICENSE.txt": "/static/js/8.7cdb0b20.chunk.js.LICENSE.txt",
+    "static/media/DAI.png": "/static/media/DAI.17db7fc2.png",
+    "static/media/USDC.png": "/static/media/USDC.c76b33ca.png",
+    "static/media/USDT.png": "/static/media/USDT.839a0f0d.png",
+    "static/media/basis-bond-logo.svg": "/static/media/basis-bond-logo.80fb5592.svg",
+    "static/media/basis-cash-logo.svg": "/static/media/basis-cash-logo.89e29678.svg",
+    "static/media/basis-share-logo.svg": "/static/media/basis-share-logo.466cf09b.svg",
+    "static/media/farmer.png": "/static/media/farmer.0a327c74.png",
+    "static/media/sUSD.png": "/static/media/sUSD.f8fec857.png",
+    "static/media/ycrv.png": "/static/media/ycrv.88ae1ab3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56157606.js",
+    "static/js/3.17313c4e.chunk.js",
+    "static/css/main.ffcc6ad9.chunk.css",
+    "static/js/main.5cb7106f.chunk.js"
+  ]
+}
